@@ -1,5 +1,5 @@
-# APC-Class-10-ICSE
-Solutions to APC Class 10 Programs (Exercises)
+# Class-10-ICSE
+Solutions to ICSE QPS AND SPECIMEN QP 
 <br>
 Let's Start !!!
 
